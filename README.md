@@ -72,6 +72,7 @@ In another co-authored article, we find that flies from sub-tropical climate reg
 
 * **Mosquito Oviposition:** Conducted early research investigating the chemosensory basis of oviposition behavior in *Aedes aegypti* ([Bulletin of Haffkine Institute, 2011](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
 
-Nature explorations: 
+Exploring...
+
 <img width="526" height="1171" alt="image" src="https://github.com/user-attachments/assets/d718a4d8-ea5f-4d00-b45c-a8789c284429" />
 
