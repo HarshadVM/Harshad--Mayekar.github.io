@@ -8,7 +8,7 @@ Worked on mosquitoes, butterflies, and fruit flies.
 Love collecting insects from the wild for experiments.
 Knowledgeable about insect husbandry, common garden experiments, image analysis, and working with the R interface.
 Familiar with statistical analyses, including modelling and principal component analyses.
-Successful in grant writing: grants to fund conferences and science awareness (Society for the Study of Evolution- Small Grants)
+Successful in grant writing: grants to fund conferences and science awareness (Society for the Study of Evolution- Small Grants) and mobility grants for conference travel.
 
 <img width="2048" height="1528" alt="Melanitis leda caterpillar IISER Thiruvananthapuram" src="https://github.com/user-attachments/assets/39277e63-2f75-4709-93a2-0ebd5d593d2b" />
 
@@ -27,6 +27,8 @@ Pupal colour is plastic in some butterflies. Pupal colour variation is likely to
 <img width="920" height="525" alt="image" src="https://github.com/user-attachments/assets/e60dc147-9871-49ef-96c5-3bb72ddded53" />
 
 **Mycalesis mineus pupae: green and brown pupae (Photo from publication: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171482) Green pupal colour correlates with higher humidity (70% and above), and brown pupal colour is induced in larvae experiencing lower humidity (70% and below)**. Green pupae are almost always formed on leaf substrates, although they are not uncommon on stem, soil and other non-camouflaged substrates. Brown pupae are restricted to stem, soil and substrates likely to camouflage them from predators. However, I also found that larval density indirectly affects pupal colour ([Journal of Zoology, 2022](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)). Larvae about to pupate upon encountering competition for leaf substrates could relocate to non-leaf backgrounds and often form brown pupae.
+
+<img width="1024" height="626" alt="image" src="https://github.com/user-attachments/assets/03a203c6-c0bf-40c5-88eb-b15ad25f3629" />
 
 
 **Substrate Correlation & Reaction Norms:**
