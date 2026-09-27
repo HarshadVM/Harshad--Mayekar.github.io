@@ -1,5 +1,7 @@
 # Harshad-Mayekar.github.io
+
 **About myself** 
+
 Researcher interested in how populations respond to climate change and the associated ecosystem dynamics.
 Explored phenotypic plasticity in insect pigmentation to understand its adaptive role in coping with environmental heterogeneity.
 Worked on mosquitoes, butterflies, and fruit flies. 
@@ -10,14 +12,14 @@ Successful in grant writing: grants to fund conferences and science awareness (S
 
 <img width="2048" height="1528" alt="Melanitis leda caterpillar IISER Thiruvananthapuram" src="https://github.com/user-attachments/assets/39277e63-2f75-4709-93a2-0ebd5d593d2b" />
 
-**Mycalesis mineus larvae and eggs**
+***Melanitis leda*** larvae and eggs**
 
 
 **Publications** 
 
 Worked on some fascinating aspects of butterfly plasticity during my PhD 
 
-**Pupal colour plasticity in a tropical butterfly, Mycalesis mineus (Nymphalidae: Satyrinae**
+**Pupal colour plasticity in a tropical butterfly, ***Mycalesis mineus*** (Nymphalidae: Satyrinae)**
 
 My very first PhD publication reported the influence of relative humidity on pupal colour in the common bush brown butterfly.
 Green pupal colour correlates with higher humidity (70% and above), and brown pupal colour is induced in larvae experiencing lower humidity (70% and below).
@@ -26,3 +28,4 @@ Green pupal colour correlates with higher humidity (70% and above), and brown pu
 
 **Mycalesis mineus pupae: green and brown pupae (Photo from publication: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171482)**
 
+Surprisingly, this study led to investigations which revealed how complex and integrated organisms evolve. It was clear from past research that pupal colour variation could have evolved to avoid predation.  Turned out that pupal colour is likely to be influenced by several factors: climatic and localized. Thus, pupation subation substrate also affected pupal colour. Green pupae are almost always seen under leaves although they can also be seen on non-green elements: soil, stem etc. 
