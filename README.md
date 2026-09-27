@@ -4,6 +4,9 @@
 
 <img width="305" height="326" alt="Harshad Mayekar photo 8th July 2025" src="https://github.com/user-attachments/assets/2583e9bb-06aa-45fa-8513-358ad2c4e133" />
 
+harshadecoevo@gmail.com.
+Google Scholar│Twitter│ResearchGate │Linkedin
+
 Researcher interested in how populations respond to climate change and the associated ecosystem dynamics.
 Explored phenotypic plasticity in insect pigmentation to understand its adaptive role in coping with environmental heterogeneity.
 Worked on mosquitoes, butterflies, and fruit flies. 
