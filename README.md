@@ -32,36 +32,43 @@ Pupal colour is plastic in some butterflies. Pupal colour variation is likely to
 
 
 **Substrate Correlation & Reaction Norms:**
-Surprisingly, reaction norms for pupal colour and pupation substrate choice are not diverse even in closely related satyrine group of butterflies. ([Entomologia Experimentalis et Applicata, 2024](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)),
+Surprisingly, reaction norms for pupal colour and pupation substrate choice exhibit both convergence and divergence even in closely related satyrine group of butterflies. ([Entomologia Experimentalis et Applicata, 2024](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)),
 
 * <img width="590" height="361" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/95645779-7372-45a2-8b73-6a1d1a4fab99" />
 
-Green and brown pupae are recorded for ***Mycalesis mineus*** and ***Ypthima huebneri***. Only green pupae are recorded for ***Melanitis leda*** and ***Melanitis phedima***. Only brown pupae are recorded for ***Ypthima baldus***. Phylogenetically related species exhibit only partial overlap in reaction norms for pupal colour and pupation substrate choice.
+Green and brown (dimorphic) pupae are recorded for ***Mycalesis mineus*** and ***Ypthima huebneri***. Only green (monomorphic green) pupae are recorded for ***Melanitis leda*** and ***Melanitis phedima***. Only brown (monomorphic brown) pupae are recorded for ***Ypthima baldus***. Monomorphic green and brown pupae are almost always restricted to leaf and off-leaf substrates. Contrarily,  in dimorphic pupae, green pupae could occur on both leaf and off-leaf substrates. All five species feed on grasses as larvae and are phylogenetically distinct. 
 
 **Pupal spots as anti-predator strategy**
-I noted that pupal spots vary in their size across green and brown pupae. 
+Pupal spots vary in their size across green and brown pupae. 
 
 <img width="945" height="737" alt="image" src="https://github.com/user-attachments/assets/c1dd1575-08c2-4f1f-86c4-4930178c3775" />
 
-Upon investigation I found that pupal colour and pupal spot may be linked to give rise to variation in spot size. Possibly spots could fail to reveal the pupal shape and hence prevent detection by predators. ([Evolutionary Ecology, 2021](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
+Upon investigation I found that pupal colour and pupal spot could be linked through substrate. Leaf-borne green pupae had negligible spots, while green pupae formed on off-leaf substrates had larger relative spot size than leaf-borne pupae. Spot size of brown pupae was largest compared to green pupae. Variation in spot size could have evolved as an anti-predator strategy. Possibly, spots could fail to reveal the pupal outline and hence prevent detection by predators. ([Evolutionary Ecology, 2021](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
 
 <img width="624" height="422" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/9acbf3a5-fe38-4b99-bb93-98da38169fe6" />
 
-Spot size
+Spot size variation in ***Mycalesis mineus*** indicate partially coupled reaction norms of pupal colour and pupal spot in response to pupation substrate. 
+
+
 ### 2. Climate Change, Altitude Adaptation, and *Drosophila* Thermal Responses
 
-* **Clinal & Altitudinal Adaptations:** Co-authored work on clinal variation as a framework for understanding climate change ([Frontiers in Physiology, 2022](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)) and studied high-altitude shifts favoring long-chained cuticular hydrocarbons in *Drosophila* ([Journal of Evolutionary Biology, 2025](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
-* **Thermal Plasticity & Structural Traits:** Evaluated thermal plasticity in structural coloration and wing spot enrichment across drosophilids ([Frontiers in Ecology and Evolution, 2024](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini); [BMC Ecology and Evolution, 2025](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
-* **Genomic and Thermal Constraints:** Reviewed genomic complexities modulating insect responses to climate change ([Current Opinion in Insect Science, 2024](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)) and documented heat tolerance limits in tropical high-altitude species ([SSRN, 2022](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
-
-### 3. Behavioral Modeling & Vector Biology
-
-* **Drosophila Social Behavior:** Applied dynamic Bayesian modeling to study social interaction patterns in *Drosophila melanogaster* ([bioRxiv, 2023](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
-* **Mosquito Oviposition:** Conducted early research investigating the chemosensory basis of oviposition behavior in *Aedes aegypti* ([Bulletin of Haffkine Institute, 2011](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
-
-Worked on some fascinating aspects of butterfly plasticity during my PhD 
-
-**Pupal colour plasticity in a tropical butterfly, ***Mycalesis mineus*** (Nymphalidae: Satyrinae)**
+* **Clinal & Altitudinal Adaptations:**
+My post-doctoral work was broad and involved understanding thermal plasticity in insects, especially in fruit flies (Drosophilids). Here, I co-authored a review on clinal variation as a framework for understanding climate change ([Frontiers in Physiology, 2022](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)) and studied high-altitude shifts favoring long-chained cuticular hydrocarbons in *Drosophila* ([Journal of Evolutionary Biology, 2025](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
 
 
+* **Thermal Plasticity & Structural Traits:**
+I got a chance to study structural coloration and pigmentation enrichment in wing spots of Drosophilids ([Frontiers in Ecology and Evolution, 2024](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini); [BMC Ecology and Evolution, 2025](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
+
+
+* **Genomic and Thermal Constraints:**
+I also co-authored another review on genomic insights for insect conservation in responses to rapid climate change ([Current Opinion in Insect Science, 2024](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)). The review highlights that extinctions are not new on this planet. However, insects have often been documented for remarkable adaptations to climatic changes and diversified during the climate variation and extremes.
+
+In another co-authored article, we find that flies from sub-tropical climate regimes from higher altitudes are likely to be constrained for higher heat tolerance limits. The article is currently under revision ([SSRN, 2022](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
+
+
+### 3. Vector Biology
+
+* **Mosquito Oviposition:** Conducted early research investigating the chemosensory basis of oviposition behavior in *Aedes aegypti* ([Bulletin of Haffkine Institute, 2011](https://scholar.google.com/citations?
+
+user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
 
