@@ -3,6 +3,7 @@
 **About myself** 
 
 <img width="305" height="326" alt="Harshad Mayekar photo 8th July 2025" src="https://github.com/user-attachments/assets/2583e9bb-06aa-45fa-8513-358ad2c4e133" />
+
 Researcher interested in how populations respond to climate change and the associated ecosystem dynamics.
 Explored phenotypic plasticity in insect pigmentation to understand its adaptive role in coping with environmental heterogeneity.
 Worked on mosquitoes, butterflies, and fruit flies. 
@@ -70,4 +71,7 @@ In another co-authored article, we find that flies from sub-tropical climate reg
 ### 3. Vector Biology
 
 * **Mosquito Oviposition:** Conducted early research investigating the chemosensory basis of oviposition behavior in *Aedes aegypti* ([Bulletin of Haffkine Institute, 2011](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
+
+Nature explorations: 
+<img width="526" height="1171" alt="image" src="https://github.com/user-attachments/assets/d718a4d8-ea5f-4d00-b45c-a8789c284429" />
 
