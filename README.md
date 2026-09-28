@@ -5,7 +5,7 @@
 <img width="305" height="326" alt="Harshad Mayekar photo 8th July 2025" src="https://github.com/user-attachments/assets/2583e9bb-06aa-45fa-8513-358ad2c4e133" />
 
 harshadecoevo@gmail.com.
-Google Scholar│Twitter│ResearchGate │Linkedin
+[Google Scholar](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en)│https://x.com/HarshadMayekar1│https://www.researchgate.net/profile/Harshad-Mayekar?ev=hdr_xprf │https://www.linkedin.com/in/harshad-mayekar-69272453/
 
 Researcher interested in how populations respond to climate change and the associated ecosystem dynamics.
 Explored phenotypic plasticity in insect pigmentation to understand its adaptive role in coping with environmental heterogeneity.
@@ -66,16 +66,19 @@ I got a chance to study structural coloration and pigmentation enrichment in win
 
 
 * **Genomic and Thermal Constraints:**
-I also co-authored another review on genomic insights for insect conservation in responses to rapid climate change ([Current Opinion in Insect Science, 2024](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)). The review highlights that extinctions are not new on this planet. However, insects have often been documented for remarkable adaptations to climatic changes and diversified during the climate variation and extremes.
+I also co-authored another review on genomic insights for insect conservation in responses to rapid climate change ([Current Opinion in Insect Science, 2024](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)). The review highlights that extinctions are not new on this planet. However, insects have often been documented for remarkable adaptations to climatic changes and have diversified during climate variation and extremes.
 
-In another co-authored article, we find that flies from sub-tropical climate regimes from higher altitudes are likely to be constrained for higher heat tolerance limits. The article is currently under revision ([SSRN, 2022](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
+In another co-authored article, we find that flies from subtropical climate regimes at higher altitudes are likely to be constrained in their higher heat tolerance limits. The article is currently under revision ([SSRN, 2022](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
 
 
 ### 3. Vector Biology
 
-* **Mosquito Oviposition:** Conducted early research investigating the chemosensory basis of oviposition behavior in *Aedes aegypti* ([Bulletin of Haffkine Institute, 2011](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
+* **Mosquito Oviposition:** Conducted early research investigating the chemosensory basis of oviposition behaviour in *Aedes aegypti* ([Bulletin of Haffkine Institute, 2011](https://scholar.google.com/citations?user=w7A64G8AAAAJ&hl=en&utm_source=gemini)).
 
 Exploring...
 
 <img width="526" height="1171" alt="image" src="https://github.com/user-attachments/assets/d718a4d8-ea5f-4d00-b45c-a8789c284429" />
 
+Field collections: 
+
+<img width="960" height="720" alt="BOB 2018" src="https://github.com/user-attachments/assets/fa4273c5-05f3-4f17-9986-54c3356d89ad" />
